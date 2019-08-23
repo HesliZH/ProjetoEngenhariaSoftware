@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/08/23" author="e.World Technology Ltd.">
+  <project id="{651BD1C9-A9FD-4A9D-B583-0C9BB2622709}" file="" name="project1" product="PHPMaker" version="15.0" datetime="2019/08/23 19:57:05" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="tblprodutos" name="tblprodutos" caption="Cadastro de produtos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tblclientes" name="tblclientes" caption="Cadastro de clientes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tblusuario" name="tblusuario" caption="Cadastro de usuários" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="Relacao_de_produtos" name="Relação de produtos" caption="Resumo de produtos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
